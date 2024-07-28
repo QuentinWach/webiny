@@ -40,6 +40,10 @@ class MinimalBrowser(QMainWindow):
         # Update address bar when URL changes
         self.web_view.urlChanged.connect(self.update_address_bar)
 
+        # TODO: Clear cookies
+
+        # TODO: Clear cache
+
         # Load a default page
         self.web_view.setUrl(QUrl("https://www.duckduckgo.com"))
 

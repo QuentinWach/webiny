@@ -1,13 +1,15 @@
-# Webiny
-A minimal web browser built using PyQt5.
+# webiny
+**A minimal web browser built using PyQt5.**
+<img align="right" width="50%" margin-left="20px" src="docs/webiny_head.png"> 
 
-+ No cookies.
-+ No caching.
-+ No logins or accounts.
-
-Just the essentials:
 + A single tab.
-+ Address bar to search and open any website.
-+ Rendering HTML, CSS, and Javascript correctly using the Chromium-based QWebEngine.
-+ Forward and backward navigation buttons.
-+ Reload button.
++ No logins or accounts.
++ Address bar to search and open websites.
++ Rendering HTML, CSS, and Javascript correctly.
++ Forward, backward, and reload buttons.
+
+
+---
+### TODO
++ Ensure no cookies.
++ Ensure minimal caching.
