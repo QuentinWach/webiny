@@ -8,8 +8,12 @@
 + Rendering HTML, CSS, and Javascript correctly.
 + Forward, backward, and reload buttons.
 
-
 ---
-### TODO
-+ Ensure no cookies.
-+ Ensure minimal caching.
+Just clone this repository, install the depencies in your Python environment
+```bash
+> pip install PyQt5 PyQtWebEngine
+```
+and run:
+```bash
+> python main.py
+```
