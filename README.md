@@ -1,4 +1,4 @@
-# Webiny
+# webiny
 A minimal web browser built using PyQt5.
 
 + No cookies.
