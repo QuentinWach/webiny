@@ -9,7 +9,7 @@
 + Forward, backward, and reload buttons.
 
 ---
-Just clone this repository, install the depencies in your Python environment
+Just clone this repository, install the dependencies in your Python environment
 ```bash
 > pip install PyQt5 PyQtWebEngine
 ```
